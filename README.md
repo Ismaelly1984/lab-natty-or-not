@@ -1,51 +1,34 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# IA na Prática: Guia Completo para Iniciantes
 
-## 🚀 Introdução
+Repositório que acompanha o material _IA na Prática: Guia Completo para Iniciantes_. O objetivo é oferecer um ponto de partida acessível para quem quer entender o que é Inteligência Artificial, como ela evoluiu e de que forma pode ser aplicada em projetos reais.
 
-> Woooow! Look at this 👀
+## Conteúdo do guia
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+- **Panorama histórico:** linha do tempo com os principais marcos da IA, do Teste de Turing ao surgimento do Deep Learning.
+- **Fundamentos essenciais:** conceitos de IA fraca/forte, aprendizado supervisionado e não supervisionado, redes neurais, processamento de linguagem natural e visão computacional.
+- **Aplicações práticas:** exemplos cotidianos em entretenimento, comércio eletrônico, fotografia, saúde, finanças e cidades inteligentes.
+- **Ferramentas e ecossistema:** visão geral de linguagens, bibliotecas (Scikit-learn, TensorFlow, PyTorch), plataformas de AutoML e comunidades como Kaggle e GitHub.
+- **Aspectos éticos:** discussão sobre privacidade, vieses algorítmicos, impacto no trabalho e necessidade de transparência e responsabilidade.
+- **Próximos passos:** sugestões de projetos introdutórios, participação em comunidades e dicas para se manter atualizado.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## Como usar
 
-### Objetivos
+1. Baixe ou abra o PDF `IA-na-Pratica-Guia-Completo-para-Iniciantes (1).pdf`.
+2. Explore cada seção seguindo a ordem proposta para construir uma base sólida.
+3. Escolha um pequeno projeto (ex.: análise de sentimentos ou classificação de imagens simples) e aplique os conceitos aprendidos.
+4. Compartilhe dúvidas ou aprendizados em comunidades recomendadas para acelerar sua curva de aprendizado.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+## Recursos adicionais sugeridos
 
-### Template
+- Documentação oficial do [Scikit-learn](https://scikit-learn.org/stable/) para aprofundar aprendizado supervisionado.
+- Cursos introdutórios gratuitos sobre IA e Machine Learning em plataformas como Coursera, edX ou Alura.
+- Competências iniciais no [Kaggle](https://www.kaggle.com/) para praticar com dados reais.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+## Como o ebook foi criado
 
-## 📒 Descrição
-Breve descrição do seu projeto
+- Usei o ChatGPT para estruturar textos, revisar explicações e sugerir exemplos alinhados ao público iniciante.
+- Organizei o material final no Gamma, aproveitando os layouts para transformar o conteúdo em um ebook visualmente consistente.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+## Licença
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Consulte o autor original do guia para informações de licenciamento antes de redistribuir ou adaptar o conteúdo.
